@@ -1,0 +1,2 @@
+﻿ServiceSettings.BatchSize=500
+ApplicationSettings.AccessType=Private

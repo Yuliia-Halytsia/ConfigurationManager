@@ -1,0 +1,2 @@
+﻿DomainModels.ServiceSettings.Port=5000
+ApplicationSettings2.Version=2

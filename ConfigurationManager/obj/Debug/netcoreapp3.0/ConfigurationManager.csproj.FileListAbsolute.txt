@@ -1,0 +1,10 @@
+C:\Users\Yuliia_Halytsia\Desktop\ConfigurationManager\ConfigurationManager\bin\Debug\netcoreapp3.0\ConfigurationManager.deps.json
+C:\Users\Yuliia_Halytsia\Desktop\ConfigurationManager\ConfigurationManager\bin\Debug\netcoreapp3.0\ConfigurationManager.dll
+C:\Users\Yuliia_Halytsia\Desktop\ConfigurationManager\ConfigurationManager\bin\Debug\netcoreapp3.0\ConfigurationManager.pdb
+C:\Users\Yuliia_Halytsia\Desktop\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp3.0\ConfigurationManager.csproj.AssemblyReference.cache
+C:\Users\Yuliia_Halytsia\Desktop\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp3.0\ConfigurationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliia_Halytsia\Desktop\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp3.0\ConfigurationManager.AssemblyInfoInputs.cache
+C:\Users\Yuliia_Halytsia\Desktop\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp3.0\ConfigurationManager.AssemblyInfo.cs
+C:\Users\Yuliia_Halytsia\Desktop\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp3.0\ConfigurationManager.csproj.CoreCompileInputs.cache
+C:\Users\Yuliia_Halytsia\Desktop\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp3.0\ConfigurationManager.dll
+C:\Users\Yuliia_Halytsia\Desktop\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp3.0\ConfigurationManager.pdb

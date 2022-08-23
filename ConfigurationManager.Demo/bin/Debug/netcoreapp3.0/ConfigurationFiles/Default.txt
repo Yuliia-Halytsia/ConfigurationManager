@@ -1,0 +1,9 @@
+﻿# service settings
+ServiceSettings.ConnectionString=sqlserver/dba
+ConfigurationManager.Demo.Models.ServiceSettings.Port=1234
+BusinessModels.ServiceSettings.BatchSize=300
+# application settings
+ConfigurationManager.Demo.Models.ApplicationSettings.Name=application
+ApplicationSettings.Owner=EPAM
+ConfigurationManager.Demo.Models.ApplicationSettings.AccessType=Public
+Models.ApplicationSettings.Version=1
